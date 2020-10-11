@@ -39,7 +39,7 @@ Three observable trends based on the data include:
 
 ## Jupyter Notebook
 
-https://github.com/teresaflicek/pandas-challenge
+https://github.com/teresaflicek/pandas-challenge/blob/main/HeroesOfPymoli/HeroesOfPymoli!.ipynb
 
 ## Contact
 Teresa Flicek
