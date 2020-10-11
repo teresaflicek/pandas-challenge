@@ -1,6 +1,6 @@
 # pandas-challenge
 
-## Project Introduction
+## Project Introduction - Heroes of Pymoli
 
 I've been assigned the task of analyzing the data for the fantasy game Heroes of Pymoli.
 Like many others in its genre, the game is free-to-play, but players are encouraged to purchase optional items that enhance their playing experience. The purpose of this report is to break down the game's purchasing data into meaningful insights.
